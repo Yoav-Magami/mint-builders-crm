@@ -1,14 +1,3 @@
- # Node modules
-node_modules/
+/frontend/node_modules/
 
-# Environment variables
-.env
-
-# Docker
-.DS_Store
-*.log
-docker-compose.override.yml
-
-# VS Code
-.vscode/
-
+/backend/node_modules/
